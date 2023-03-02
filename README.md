@@ -2,7 +2,7 @@
 
 Academic Project for the course DSCI644-Software Engineering for Data Science
 
-# Folder Strucuture
+# Folder Structure
 
 - Notebook                  # All Jupyter Notebooks
   - DataPreprocessing       # Jupyter Notebooks Used For Data Preprocessing
