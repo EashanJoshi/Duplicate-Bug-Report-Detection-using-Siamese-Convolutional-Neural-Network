@@ -12,6 +12,7 @@ Academic Project for the course DSCI644-Software Engineering for Data Science
   - LDA_GloVe (Google Colab Notebooks Used For Implementaion of LDA+GloVe)
   - SiameseCNN (Jupyter Notebooks Used For Implementaion of Siamese CNN)
   - StatisticalAnalysis (Jupyter Notebook Used For Statistical Analysis)
+  - TSNEVisualization (Jupyter Notebook Used For t-SNE Visualization)
 - PreProcessedData (CSV Files containing Processed Dataset)
   - Eclipse (Processed Eclipse Dataset)
   - Firefox (Processed Firefox Dataset)
