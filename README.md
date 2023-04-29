@@ -22,3 +22,14 @@ Academic Project for the course DSCI644-Software Engineering for Data Science
   - Mobile (Processed Mobile Dataset)
   - Requirement (To store files used in Notebooks)
 - PrimaryDataset (CSV Files containing the Whole Dataset)
+
+## Steps To Run Code
+
+- Step 1: Use Jupyter Notebooks from 'DataPreprocessing' Folder to Pre-Process Data in 'PrimaryDataset' Folder. This Pre-Proessed Data will be stored in 'PreProcessedData' Folder in 'Eclipse', 'Firefox' and 'Mobile' sub-folders accordingly.
+- Step 2: Use Jupyter Notebooks from 'BM25' Folder to perform Information Retrieval using BM25.
+- Step 3: Use Google Colab Notebooks from 'LDA_GloVe' Folder to perform Topic Modelling using LDA+Glove. Google Colab Notebook Links are provided in Folder Structure. Also make sure required datasets are present in Your Shared Drives so that Code Runs without any issues.
+- Step 4: Use Jupyter Notebook from 'StatisticalAnalysis' Folder to perform Statistical Analysis on results of BM25 and LDA+Glove.
+- Step 5: Use Jupyter Notebook from 'DescriptiveAnalysis' Folder to perform Descriptive Analysis on Similarity Scores of Bug Reports.
+- Step 6: Use Jupyter Notebook from 'TSNEVisualization' Folder to perform Embedding Analysis on Textually Similar and Dissimilar Bug Reports.
+- Step 7: Use Jupyter Notebooks from 'SiameseCNN' Folder to perform Machine Learning using SiameseCNN.
+  
